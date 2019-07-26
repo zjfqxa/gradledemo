@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gradledemo.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-26T07:05:01" hostname="55a1666e3e79" time="0.015">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="gradledemo.AppTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
